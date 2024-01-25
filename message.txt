@@ -1,6 +1,6 @@
-¡Hola :) !  ¡Disfruta de la nueva colección en *Elements Joyería!*
+¡Hola {Nombre} !  ¡Disfruta de la nueva {Colection} en *Elements Joyería!*
 
-Realiza fácilmente tu pedido en : elements-of-steel.com.mx/catalog/ * 
+Realiza fácilmente tu pedido en : elements-of-steel.com.mx/catalog/ *
 O con tu vendedor de confianza :)
 
 *Recuerda *ingresar tu número celular como usuario y contraseña*
